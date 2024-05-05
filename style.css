@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Ubuntu_regular";
+    src: url("Font/Ubuntu/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat_regular";
+    src: url("Font/Montserrat/static/Montserrat-Regular.ttf");
+}
+
+body{
+    background-color:rgb(209, 216, 209)
+}
+
+.page_title {
+    text-align: center;
+    font-family: Montserrat_regular;
+    font-size:5rem
+}
